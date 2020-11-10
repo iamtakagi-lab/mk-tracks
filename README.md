@@ -8,7 +8,7 @@
 $ npm i mk-tracks
 ```
 
-```
+```js
 import { tracks } from 'mk-tracks'
 
 console.log(tracks)
