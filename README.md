@@ -23,6 +23,8 @@ console.log(data)
 ```
 
 ## Game Type
+
+```ts
 type Game = {
   title_jp: string
   title_en: string
@@ -43,4 +45,4 @@ type Game = {
     }
   ]
 }
-
+```
