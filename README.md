@@ -5,6 +5,8 @@ JSON-based Mario Kart Tracks Library.
 
 [![npm version](https://badge.fury.io/js/mk-tracks.svg)](https://badge.fury.io/js/mk-tracks)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Support games (abbreviation)
 - MKDS
 - MKW
