@@ -1,4 +1,3 @@
-![](./og-image.png)
 
 # mk-tracks
 JSON-based Mario Kart Tracks Library.
