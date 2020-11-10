@@ -9,8 +9,8 @@ $ npm i mk-tracks
 ```
 
 ```js
-import { tracks } from 'mk-tracks'
+import { data } from 'mk-tracks'
 
-console.log(tracks)
+console.log(data)
 ```
 
