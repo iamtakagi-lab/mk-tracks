@@ -2,6 +2,12 @@
 
 # mk-tracks
 
+## Support games (abbreviation)
+- MKDS
+- MKW
+- MK7
+- MK8
+
 ## Usage
 
 ```
@@ -95,4 +101,10 @@ type Game = {
       .
 ]
 ```
+
+### Versioning
+- Major: Add breaking change
+- Minor: Update database, Add new feature (No breaking change)
+- Patch: Fix database, Fix bug
+
 
