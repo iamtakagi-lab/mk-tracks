@@ -14,3 +14,11 @@ import { data } from 'mk-tracks'
 console.log(data)
 ```
 
+or 
+
+```
+const data = require('mk-tracks')
+
+console.log(data)
+```
+
