@@ -22,7 +22,11 @@ const data = require('mk-tracks')
 console.log(data)
 ```
 
-## Game Type
+## Structure
+Return an array of Game type. (Return Game[])
+
+### Game Type
+Expressed in TypeScript, it looks like the following type.
 
 ```ts
 type Game = {
@@ -46,3 +50,49 @@ type Game = {
   ]
 }
 ```
+
+### Example
+```json
+[
+  {
+    "title_jp": "マリオカート DS",
+    "title_en": "Mario Kart DS",
+    "title_abbreviation": "MKDS",
+    "cups": [
+      {
+        "id": 0,
+        "name_en": "Mushroom Cup",
+        "name_jp": "キノコカップ",
+        "tracks": [
+          {
+            "id": 0,
+            "name_en": "Figure 8 Circuit",
+            "name_jp": "エイトクロスサーキット",
+            "abbreviation": "F8C"
+          },
+          {
+            "id": 1,
+            "name_en": "Yoshi Falls",
+            "name_jp": "ヨッシーフォールズ",
+            "abbreviation": "YF"
+          },
+          {
+            "id": 2,
+            "name_en": "Cheep Cheep Beach",
+            "name_jp": "プクプクビーチ",
+            "abbreviation": "CCB"
+          },
+          {
+            "id": 3,
+            "name_en": "Luigi's Mansion",
+            "name_jp": "ルイージマンション",
+            "abbreviation": "LM"
+          }
+        ]
+      },
+      .
+      .
+      .
+]
+```
+
