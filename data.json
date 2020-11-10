@@ -6,8 +6,8 @@
         "cups": [
             {
                 "id": 0,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Mushroom Cup",
+                "name_jp": "キノコカップ",
                 "tracks": [
                     {
                         "id": 0,
@@ -37,8 +37,8 @@
             },
             {
                 "id": 1,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Flower Cup",
+                "name_jp": "フラワーカップ",
                 "tracks": [
                     {
                         "id": 4,
@@ -68,8 +68,8 @@
             },
             {
                 "id": 2,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Star Cup",
+                "name_jp": "スターカップ",
                 "tracks": [
                     {
                         "id": 8,
@@ -99,8 +99,8 @@
             },
             {
                 "id": 3,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Special Cup",
+                "name_jp": "スペシャルカップ",
                 "tracks": [
                     {
                         "id": 12,
@@ -130,8 +130,8 @@
             },
             {
                 "id": 4,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Shell Cup",
+                "name_jp": "こうらカップ",
                 "tracks": [
                     {
                         "id": 16,
@@ -161,8 +161,8 @@
             },
             {
                 "id": 5,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Banana Cup",
+                "name_jp": "バナナカップ",
                 "tracks": [
                     {
                         "id": 20,
@@ -192,8 +192,8 @@
             },
             {
                 "id": 6,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Leaf Cup",
+                "name_jp": "このはカップ",
                 "tracks": [
                     {
                         "id": 24,
@@ -223,8 +223,8 @@
             },
             {
                 "id": 7,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Lightning Cup",
+                "name_jp": "サンダーカップ",
                 "tracks": [
                     {
                         "id": 28,
@@ -261,8 +261,8 @@
         "cups": [
             {
                 "id": 0,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Mushroom Cup",
+                "name_jp": "キノコカップ",
                 "tracks": [
                     {
                         "id": 0,
@@ -292,8 +292,8 @@
             },
             {
                 "id": 1,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Flower Cup",
+                "name_jp": "フラワーカップ",
                 "tracks": [
                     {
                         "id": 4,
@@ -323,8 +323,8 @@
             },
             {
                 "id": 2,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Star Cup",
+                "name_jp": "スターカップ",
                 "tracks": [
                     {
                         "id": 8,
@@ -354,8 +354,8 @@
             },
             {
                 "id": 3,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Special Cup",
+                "name_jp": "スペシャルカップ",
                 "tracks": [
                     {
                         "id": 12,
@@ -385,8 +385,8 @@
             },
             {
                 "id": 4,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Shell Cup",
+                "name_jp": "こうらカップ",
                 "tracks": [
                     {
                         "id": 16,
@@ -416,8 +416,8 @@
             },
             {
                 "id": 5,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Banana Cup",
+                "name_jp": "バナナカップ",
                 "tracks": [
                     {
                         "id": 20,
@@ -447,8 +447,8 @@
             },
             {
                 "id": 6,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Leaf Cup",
+                "name_jp": "このはカップ",
                 "tracks": [
                     {
                         "id": 24,
@@ -478,8 +478,8 @@
             },
             {
                 "id": 7,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Lightning Cup",
+                "name_jp": "サンダーカップ",
                 "tracks": [
                     {
                         "id": 28,
@@ -516,8 +516,8 @@
         "cups": [
             {
                 "id": 0,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Mushroom Cup",
+                "name_jp": "キノコカップ",
                 "tracks": [
                     {
                         "id": 0,
@@ -547,8 +547,8 @@
             },
             {
                 "id": 1,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Flower Cup",
+                "name_jp": "フラワーカップ",
                 "tracks": [
                     {
                         "id": 4,
@@ -578,8 +578,8 @@
             },
             {
                 "id": 2,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Star Cup",
+                "name_jp": "スターカップ",
                 "tracks": [
                     {
                         "id": 8,
@@ -609,8 +609,8 @@
             },
             {
                 "id": 3,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Special Cup",
+                "name_jp": "スペシャルカップ",
                 "tracks": [
                     {
                         "id": 12,
@@ -640,8 +640,8 @@
             },
             {
                 "id": 4,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Shell Cup",
+                "name_jp": "こうらカップ",
                 "tracks": [
                     {
                         "id": 16,
@@ -671,8 +671,8 @@
             },
             {
                 "id": 5,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Banana Cup",
+                "name_jp": "バナナカップ",
                 "tracks": [
                     {
                         "id": 19,
@@ -702,8 +702,8 @@
             },
             {
                 "id": 6,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Leaf Cup",
+                "name_jp": "このはカップ",
                 "tracks": [
                     {
                         "id": 23,
@@ -733,8 +733,8 @@
             },
             {
                 "id": 7,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "サンダーカップ",
+                "name_jp": "Lightning Cup",
                 "tracks": [
                     {
                         "id": 27,
@@ -771,8 +771,8 @@
         "cups": [
             {
                 "id": 0,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Mushroom Cup",
+                "name_jp": "キノコカップ",
                 "tracks": [
                     {
                         "id": 0,
@@ -802,8 +802,8 @@
             },
             {
                 "id": 1,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Flower Cup",
+                "name_jp": "フラワーカップ",
                 "tracks": [
                     {
                         "id": 4,
@@ -833,8 +833,8 @@
             },
             {
                 "id": 2,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Star Cup",
+                "name_jp": "スターカップ",
                 "tracks": [
                     {
                         "id": 8,
@@ -864,8 +864,8 @@
             },
             {
                 "id": 3,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Special Cup",
+                "name_jp": "スペシャルカップ",
                 "tracks": [
                     {
                         "id": 12,
@@ -895,8 +895,8 @@
             },
             {
                 "id": 4,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Shell Cup",
+                "name_jp": "こうらカップ",
                 "tracks": [
                     {
                         "id": 16,
@@ -926,8 +926,8 @@
             },
             {
                 "id": 5,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Banana Cup",
+                "name_jp": "バナナカップ",
                 "tracks": [
                     {
                         "id": 20,
@@ -957,8 +957,8 @@
             },
             {
                 "id": 6,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Leaf Cup",
+                "name_jp": "このはカップ",
                 "tracks": [
                     {
                         "id": 24,
@@ -988,8 +988,8 @@
             },
             {
                 "id": 7,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Lightning Cup",
+                "name_jp": "サンダーカップ",
                 "tracks": [
                     {
                         "id": 28,
@@ -1019,8 +1019,8 @@
             },
             {
                 "id": 8,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Egg Cup",
+                "name_jp": "たまごカップ",
                 "tracks": [
                     {
                         "id": 32,
@@ -1050,8 +1050,8 @@
             },
             {
                 "id": 9,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Triforce Cup",
+                "name_jp": "ゼルダカップ",
                 "tracks": [
                     {
                         "id": 36,
@@ -1081,8 +1081,8 @@
             },
             {
                 "id": 10,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Crossing Cup",
+                "name_jp": "どうぶつカップ",
                 "tracks": [
                     {
                         "id": 40,
@@ -1112,8 +1112,8 @@
             },
             {
                 "id": 11,
-                "name_en": "",
-                "name_jp": "",
+                "name_en": "Bell Cup",
+                "name_jp": "ベルカップ",
                 "tracks": [
                     {
                         "id": 44,
