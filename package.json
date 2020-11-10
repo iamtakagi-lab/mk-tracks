@@ -2,5 +2,35 @@
   "name": "mk-tracks",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/iam-takagi/mk-tracks",
+  "bugs": {
+    "url": "https://github.com/iam-takagi/mk-tracks/issues"
+  },
+  "keywords": [
+    "Mario Kart",
+    "MK",
+    "MKDS",
+    "MKW",
+    "MKWii",
+    "MK7",
+    "MK8",
+    "MK8U",
+    "MK8D",
+    "MK8DX",
+    "Track",
+    "Course"
+  ],
+  "repository": "https://github.com/iam-takagi/mk-tracks.git",
+  "author": "iam_takagi <iam.takagi.dev@gmail.com>",
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "jsonlint -q data.json",
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "jsonlint": "^1.6.3",
+    "prettier": "^2.1.2",
+    "release-it": "^14.2.1"
+  }
 }

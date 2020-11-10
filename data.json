@@ -1,1146 +1,1146 @@
 [
-    {
-        "title_jp": "マリオカート DS",
-        "title_en": "Mario Kart DS",
-        "title_abbreviation": "MKDS",
-        "cups": [
-            {
-                "id": 0,
-                "name_en": "Mushroom Cup",
-                "name_jp": "キノコカップ",
-                "tracks": [
-                    {
-                        "id": 0,
-                        "name_en": "Figure 8 Circuit",
-                        "name_jp": "エイトクロスサーキット",
-                        "abbreviation": "F8C"
-                    },
-                    {
-                        "id": 1,
-                        "name_en": "Yoshi Falls",
-                        "name_jp": "ヨッシーフォールズ",
-                        "abbreviation": "YF"
-                    },
-                    {
-                        "id": 2,
-                        "name_en": "Cheep Cheep Beach",
-                        "name_jp": "プクプクビーチ",
-                        "abbreviation": "CCB"
-                    },
-                    {
-                        "id": 3,
-                        "name_en": "Luigi's Mansion",
-                        "name_jp": "ルイージマンション",
-                        "abbreviation": "LM"
-                    }
-                ]
-            },
-            {
-                "id": 1,
-                "name_en": "Flower Cup",
-                "name_jp": "フラワーカップ",
-                "tracks": [
-                    {
-                        "id": 4,
-                        "name_en": "Desert Hills",
-                        "name_jp": "サンサンさばく",
-                        "abbreviation": "DH"
-                    },
-                    {
-                        "id": 5,
-                        "name_en": "Delfino Square",
-                        "name_jp": "モンテタウン",
-                        "abbreviation": "DS"
-                    },
-                    {
-                        "id": 6,
-                        "name_en": "Waluigi Pinball",
-                        "name_jp": "ワルイージピンボール",
-                        "abbreviation": "WP"
-                    },
-                    {
-                        "id": 7,
-                        "name_en": "Shroom Ridge",
-                        "name_jp": "キノコリッジウェイ",
-                        "abbreviation": "SR"
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name_en": "Star Cup",
-                "name_jp": "スターカップ",
-                "tracks": [
-                    {
-                        "id": 8,
-                        "name_en": "DK Pass",
-                        "name_jp": "DK スノーマウンテン",
-                        "abbreviation": "DKP"
-                    },
-                    {
-                        "id": 9,
-                        "name_en": "Tick Tock Clock",
-                        "name_jp": "チクタクロック",
-                        "abbreviation": "TTC"
-                    },
-                    {
-                        "id": 10,
-                        "name_en": "Mario Circuit",
-                        "name_jp": "マリオサーキット",
-                        "abbreviation": "MC"
-                    },
-                    {
-                        "id": 11,
-                        "name_en": "Airship Fortress",
-                        "name_jp": "キラーシップ",
-                        "abbreviation": "AF"
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "name_en": "Special Cup",
-                "name_jp": "スペシャルカップ",
-                "tracks": [
-                    {
-                        "id": 12,
-                        "name_en": "Wario Stadium",
-                        "name_jp": "ワリオスタジアム",
-                        "abbreviation": "WS"
-                    },
-                    {
-                        "id": 13,
-                        "name_en": "Peach Gardens",
-                        "name_jp": "ピーチガーデン",
-                        "abbreviation": "PG"
-                    },
-                    {
-                        "id": 14,
-                        "name_en": "Bowser Castle",
-                        "name_jp": "クッパキャッスル",
-                        "abbreviation": "BC"
-                    },
-                    {
-                        "id": 15,
-                        "name_en": "Rainbow Road",
-                        "name_jp": "レインボーロード",
-                        "abbreviation": "RR"
-                    }
-                ]
-            },
-            {
-                "id": 4,
-                "name_en": "Shell Cup",
-                "name_jp": "こうらカップ",
-                "tracks": [
-                    {
-                        "id": 16,
-                        "name_en": "SNES Mario Circuit 1",
-                        "name_jp": "SFC マリオサーキット1",
-                        "abbreviation": "rMC"
-                    },
-                    {
-                        "id": 17,
-                        "name_en": "N64 Moo Moo Farm",
-                        "name_jp": "64 モーモーファーム",
-                        "abbreviation": "rMMF"
-                    },
-                    {
-                        "id": 18,
-                        "name_en": "GBA Peach Circuit",
-                        "name_jp": "GBA ピーチサーキット",
-                        "abbreviation": "rPC"
-                    },
-                    {
-                        "id": 19,
-                        "name_en": "GCN Luigi Circuit",
-                        "name_jp": "GC ルイージサーキット",
-                        "abbreviation": "rLC"
-                    }
-                ]
-            },
-            {
-                "id": 5,
-                "name_en": "Banana Cup",
-                "name_jp": "バナナカップ",
-                "tracks": [
-                    {
-                        "id": 20,
-                        "name_en": "SNES Donut Plains 1",
-                        "name_jp": "SFC ドーナツへいや1",
-                        "abbreviation": "rDP"
-                    },
-                    {
-                        "id": 21,
-                        "name_en": "N64 Frappe Snowland",
-                        "name_jp": "64 フラッペスノーランド",
-                        "abbreviation": "rFS"
-                    },
-                    {
-                        "id": 22,
-                        "name_en": "GBA Bowser Castle 2",
-                        "name_jp": "GBA クッパキャッスル2",
-                        "abbreviation": "rBC2"
-                    },
-                    {
-                        "id": 23,
-                        "name_en": "GCN Baby Park",
-                        "name_jp": "GC ベビィパーク",
-                        "abbreviation": "rBP"
-                    }
-                ]
-            },
-            {
-                "id": 6,
-                "name_en": "Leaf Cup",
-                "name_jp": "このはカップ",
-                "tracks": [
-                    {
-                        "id": 24,
-                        "name_en": "SNES Koopa Beach 2",
-                        "name_jp": "SFC ノコノコビーチ2",
-                        "abbreviation": "rKB2"
-                    },
-                    {
-                        "id": 25,
-                        "name_en": "N64 Choco Mountain",
-                        "name_jp": "64 チョコマウンテン",
-                        "abbreviation": "rCM"
-                    },
-                    {
-                        "id": 26,
-                        "name_en": "GBA Luigi Circuit",
-                        "name_jp": "GBA ルイージサーキット",
-                        "abbreviation": "rLC"
-                    },
-                    {
-                        "id": 27,
-                        "name_en": "GCN Mushroom Bridge",
-                        "name_jp": "GC キノコブリッジ",
-                        "abbreviation": "rMB"
-                    }
-                ]
-            },
-            {
-                "id": 7,
-                "name_en": "Lightning Cup",
-                "name_jp": "サンダーカップ",
-                "tracks": [
-                    {
-                        "id": 28,
-                        "name_en": "SNES Choco Island 2",
-                        "name_jp": "SFC チョコレーとう2",
-                        "abbreviation": "rCI2"
-                    },
-                    {
-                        "id": 29,
-                        "name_en": "N64 Banshee Boardwalk",
-                        "name_jp": "64 ヒュードロいけ",
-                        "abbreviation": "rBB"
-                    },
-                    {
-                        "id": 30,
-                        "name_en": "GBA Sky Garden",
-                        "name_jp": "GBA スカイガーデン",
-                        "abbreviation": "rSG"
-                    },
-                    {
-                        "id": 31,
-                        "name_en": "GCN Yoshi Circuit",
-                        "name_jp": "GC ヨッシーサーキット",
-                        "abbreviation": "rYC"
-                    }
-                ]
-            }
+  {
+    "title_jp": "マリオカート DS",
+    "title_en": "Mario Kart DS",
+    "title_abbreviation": "MKDS",
+    "cups": [
+      {
+        "id": 0,
+        "name_en": "Mushroom Cup",
+        "name_jp": "キノコカップ",
+        "tracks": [
+          {
+            "id": 0,
+            "name_en": "Figure 8 Circuit",
+            "name_jp": "エイトクロスサーキット",
+            "abbreviation": "F8C"
+          },
+          {
+            "id": 1,
+            "name_en": "Yoshi Falls",
+            "name_jp": "ヨッシーフォールズ",
+            "abbreviation": "YF"
+          },
+          {
+            "id": 2,
+            "name_en": "Cheep Cheep Beach",
+            "name_jp": "プクプクビーチ",
+            "abbreviation": "CCB"
+          },
+          {
+            "id": 3,
+            "name_en": "Luigi's Mansion",
+            "name_jp": "ルイージマンション",
+            "abbreviation": "LM"
+          }
         ]
-    },
-    {
-        "title_jp": "マリオカート Wii",
-        "title_en": "Mario Kart Wii",
-        "title_abbreviation": "MKW",
-        "cups": [
-            {
-                "id": 0,
-                "name_en": "Mushroom Cup",
-                "name_jp": "キノコカップ",
-                "tracks": [
-                    {
-                        "id": 0,
-                        "name_en": "Luigi Circuit",
-                        "name_jp": "ルイージサーキット",
-                        "abbreviation": "LC"
-                    },
-                    {
-                        "id": 1,
-                        "name_en": "Moo Moo Meadows",
-                        "name_jp": "モーモーカントリー",
-                        "abbreviation": "MMM"
-                    },
-                    {
-                        "id": 2,
-                        "name_en": "Mushroom Gorge",
-                        "name_jp": "キノコキャニオン",
-                        "abbreviation": "MG"
-                    },
-                    {
-                        "id": 3,
-                        "name_en": "Toad's Factory",
-                        "name_jp": "キノピオファクトリー",
-                        "abbreviation": "TF"
-                    }
-                ]
-            },
-            {
-                "id": 1,
-                "name_en": "Flower Cup",
-                "name_jp": "フラワーカップ",
-                "tracks": [
-                    {
-                        "id": 4,
-                        "name_en": "Mario Circuit",
-                        "name_jp": "マリオサーキット",
-                        "abbreviation": "MC"
-                    },
-                    {
-                        "id": 5,
-                        "name_en": "Coconut Mall",
-                        "name_jp": "ココナッツモール",
-                        "abbreviation": "CM"
-                    },
-                    {
-                        "id": 6,
-                        "name_en": "DK's Snowboard Cross",
-                        "name_jp": "DKスノーボードクロス",
-                        "abbreviation": "DKSC"
-                    },
-                    {
-                        "id": 7,
-                        "name_en": "Wario's Gold Mine",
-                        "name_jp": "ワリオこうざん",
-                        "abbreviation": "WGM"
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name_en": "Star Cup",
-                "name_jp": "スターカップ",
-                "tracks": [
-                    {
-                        "id": 8,
-                        "name_en": "Daisy Circuit",
-                        "name_jp": "デイジーサーキット",
-                        "abbreviation": "DC"
-                    },
-                    {
-                        "id": 9,
-                        "name_en": "Koopa Cape",
-                        "name_jp": "ノコノコみさき",
-                        "abbreviation": "KC"
-                    },
-                    {
-                        "id": 10,
-                        "name_en": "Maple Treeway",
-                        "name_jp": "メイプルツリーハウス",
-                        "abbreviation": "MT"
-                    },
-                    {
-                        "id": 11,
-                        "name_en": "Grumble Volcano",
-                        "name_jp": "グラグラかざん",
-                        "abbreviation": "GV"
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "name_en": "Special Cup",
-                "name_jp": "スペシャルカップ",
-                "tracks": [
-                    {
-                        "id": 12,
-                        "name_en": "Dry Dry Ruins",
-                        "name_jp": "カラカラいせき",
-                        "abbreviation": "DDR"
-                    },
-                    {
-                        "id": 13,
-                        "name_en": "Moonview Highway",
-                        "name_jp": "ムーンリッジ & ハイウェイ",
-                        "abbreviation": "MH"
-                    },
-                    {
-                        "id": 14,
-                        "name_en": "Bowser's Castle",
-                        "name_jp": "クッパキャッスル",
-                        "abbreviation": "BC"
-                    },
-                    {
-                        "id": 15,
-                        "name_en": "Rainbow Road",
-                        "name_jp": "レインボーロード",
-                        "abbreviation": "RR"
-                    }
-                ]
-            },
-            {
-                "id": 4,
-                "name_en": "Shell Cup",
-                "name_jp": "こうらカップ",
-                "tracks": [
-                    {
-                        "id": 16,
-                        "name_en": "GCN Peach Beach",
-                        "name_jp": "GC ピーチビーチ",
-                        "abbreviation": "rPB"
-                    },
-                    {
-                        "id": 17,
-                        "name_en": "DS Yoshi Falls",
-                        "name_jp": "DS ヨッシーフォールズ",
-                        "abbreviation": "rYF"
-                    },
-                    {
-                        "id": 18,
-                        "name_en": "SNES Ghost Valley 2",
-                        "name_jp": "SFC おばけぬま2",
-                        "abbreviation": "rGV2"
-                    },
-                    {
-                        "id": 19,
-                        "name_en": "N64 Mario Raceway",
-                        "name_jp": "64 マリオサーキット",
-                        "abbreviation": "rMR"
-                    }
-                ]
-            },
-            {
-                "id": 5,
-                "name_en": "Banana Cup",
-                "name_jp": "バナナカップ",
-                "tracks": [
-                    {
-                        "id": 20,
-                        "name_en": "N64 Sherbet Land",
-                        "name_jp": "64 シャーベットランド",
-                        "abbreviation": "rSL"
-                    },
-                    {
-                        "id": 21,
-                        "name_en": "GBA Shy Guy Beach",
-                        "name_jp": "GBA ヘイホービーチ",
-                        "abbreviation": "rSGB"
-                    },
-                    {
-                        "id": 22,
-                        "name_en": "DS Delfino Square",
-                        "name_jp": "DS モンテタウン",
-                        "abbreviation": "rDS"
-                    },
-                    {
-                        "id": 23,
-                        "name_en": "GCN Waluigi Stadium",
-                        "name_jp": "GC ワルイージスタジアム",
-                        "abbreviation": "rWS"
-                    }
-                ]
-            },
-            {
-                "id": 6,
-                "name_en": "Leaf Cup",
-                "name_jp": "このはカップ",
-                "tracks": [
-                    {
-                        "id": 24,
-                        "name_en": "DS Desert Hills",
-                        "name_jp": "DS サンサンさばく",
-                        "abbreviation": "rDH"
-                    },
-                    {
-                        "id": 25,
-                        "name_en": "GBA Bowser Castle 3",
-                        "name_jp": "GBA クッパキャッスル",
-                        "abbreviation": "rBC3"
-                    },
-                    {
-                        "id": 26,
-                        "name_en": "N64 DK's J.Parkway",
-                        "name_jp": "64 DKジャングルパーク",
-                        "abbreviation": "rDJKP"
-                    },
-                    {
-                        "id": 27,
-                        "name_en": "GCN Mario Circuit",
-                        "name_jp": "GC マリオサーキット",
-                        "abbreviation": "rMC"
-                    }
-                ]
-            },
-            {
-                "id": 7,
-                "name_en": "Lightning Cup",
-                "name_jp": "サンダーカップ",
-                "tracks": [
-                    {
-                        "id": 28,
-                        "name_en": "SNES Mario Circuit 3",
-                        "name_jp": "SFC マリオサーキット3",
-                        "abbreviation": "rMC3"
-                    },
-                    {
-                        "id": 29,
-                        "name_en": "DS Peach Gardens",
-                        "name_jp": "DS ピーチガーデン",
-                        "abbreviation": "rPG"
-                    },
-                    {
-                        "id": 30,
-                        "name_en": "GCN DK Mountain",
-                        "name_jp": "GC DKマウンテン",
-                        "abbreviation": "rDKM"
-                    },
-                    {
-                        "id": 31,
-                        "name_en": "N64 Bowser's Castle",
-                        "name_jp": "64 クッパキャッスル",
-                        "abbreviation": "rBC"
-                    }
-                ]
-            }
+      },
+      {
+        "id": 1,
+        "name_en": "Flower Cup",
+        "name_jp": "フラワーカップ",
+        "tracks": [
+          {
+            "id": 4,
+            "name_en": "Desert Hills",
+            "name_jp": "サンサンさばく",
+            "abbreviation": "DH"
+          },
+          {
+            "id": 5,
+            "name_en": "Delfino Square",
+            "name_jp": "モンテタウン",
+            "abbreviation": "DS"
+          },
+          {
+            "id": 6,
+            "name_en": "Waluigi Pinball",
+            "name_jp": "ワルイージピンボール",
+            "abbreviation": "WP"
+          },
+          {
+            "id": 7,
+            "name_en": "Shroom Ridge",
+            "name_jp": "キノコリッジウェイ",
+            "abbreviation": "SR"
+          }
         ]
-    },
-    {
-        "title_jp": "マリオカート 7",
-        "title_en": "Mario Kart 7",
-        "title_abbreviation": "MK7",
-        "cups": [
-            {
-                "id": 0,
-                "name_en": "Mushroom Cup",
-                "name_jp": "キノコカップ",
-                "tracks": [
-                    {
-                        "id": 0,
-                        "name_en": "Toad Circuit",
-                        "name_jp": "キノピオサーキット",
-                        "abbreviation": "TC"
-                    },
-                    {
-                        "id": 1,
-                        "name_en": "Daisy Hills",
-                        "name_jp": "デイジーヒルズ",
-                        "abbreviation": "DH"
-                    },
-                    {
-                        "id": 2,
-                        "name_en": "Cheep Cheep Lagoon",
-                        "name_jp": "プクプクラグーン",
-                        "abbreviation": "CCL"
-                    },
-                    {
-                        "id": 3,
-                        "name_en": "Shy Guy Bazaar",
-                        "name_jp": "ヘイホーカーニバル",
-                        "abbreviation": "SGB"
-                    }
-                ]
-            },
-            {
-                "id": 1,
-                "name_en": "Flower Cup",
-                "name_jp": "フラワーカップ",
-                "tracks": [
-                    {
-                        "id": 4,
-                        "name_en": "Wuhu Loop",
-                        "name_jp": "ウーフーアイランド1",
-                        "abbreviation": "WL"
-                    },
-                    {
-                        "id": 5,
-                        "name_en": "Mario Circuit",
-                        "name_jp": "マリオサーキット",
-                        "abbreviation": "MC"
-                    },
-                    {
-                        "id": 6,
-                        "name_en": "Music Park",
-                        "name_jp": "ミュージックパーク",
-                        "abbreviation": "MP"
-                    },
-                    {
-                        "id": 7,
-                        "name_en": "Rock Rock Mountain",
-                        "name_jp": "ロックロックマウンテン",
-                        "abbreviation": "RRM"
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name_en": "Star Cup",
-                "name_jp": "スターカップ",
-                "tracks": [
-                    {
-                        "id": 8,
-                        "name_en": "Piranha Plant Slide",
-                        "name_jp": "パックンスライダー",
-                        "abbreviation": "PPS"
-                    },
-                    {
-                        "id": 9,
-                        "name_en": "Wario Shipyard",
-                        "name_jp": "ワリオシップ",
-                        "abbreviation": "WS"
-                    },
-                    {
-                        "id": 10,
-                        "name_en": "Neo Bowser City",
-                        "name_jp": "ネオクッパシティ",
-                        "abbreviation": "NBC"
-                    },
-                    {
-                        "id": 11,
-                        "name_en": "Maka Wuhu",
-                        "name_jp": "ウーフーアイランド2",
-                        "abbreviation": "MW"
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "name_en": "Special Cup",
-                "name_jp": "スペシャルカップ",
-                "tracks": [
-                    {
-                        "id": 12,
-                        "name_en": "DK Jungle",
-                        "name_jp": "DKジャングル",
-                        "abbreviation": "DKJ"
-                    },
-                    {
-                        "id": 13,
-                        "name_en": "Rosalina's Ice World",
-                        "name_jp": "ロゼッタプラネット",
-                        "abbreviation": "RIW"
-                    },
-                    {
-                        "id": 14,
-                        "name_en": "Bowser's Castle",
-                        "name_jp": "クッパキャッスル",
-                        "abbreviation": "BC"
-                    },
-                    {
-                        "id": 15,
-                        "name_en": "Rainbow Road",
-                        "name_jp": "レインボーロード",
-                        "abbreviation": "RR"
-                    }
-                ]
-            },
-            {
-                "id": 4,
-                "name_en": "Shell Cup",
-                "name_jp": "こうらカップ",
-                "tracks": [
-                    {
-                        "id": 16,
-                        "name_en": "N64 Luigi Raceway",
-                        "name_jp": "64 ルイージサーキット",
-                        "abbreviation": "LR"
-                    },
-                    {
-                        "id": 17,
-                        "name_en": "GBA Bowser Castle 1",
-                        "name_jp": "GBA クッパキャッスル1",
-                        "abbreviation": "rBC"
-                    },
-                    {
-                        "id": 18,
-                        "name_en": "Wii Mushroom Gorge",
-                        "name_jp": "Wii キノコキャニオン",
-                        "abbreviation": "rMG"
-                    },
-                    {
-                        "id": 3,
-                        "name_en": "DS Luigi's Mansion",
-                        "name_jp": "DS ルイージマンション",
-                        "abbreviation": "rLM"
-                    }
-                ]
-            },
-            {
-                "id": 5,
-                "name_en": "Banana Cup",
-                "name_jp": "バナナカップ",
-                "tracks": [
-                    {
-                        "id": 19,
-                        "name_en": "N64 Koopa Troopa Beach",
-                        "name_jp": "64 ノコノコビーチ",
-                        "abbreviation": "rKTB"
-                    },
-                    {
-                        "id": 20,
-                        "name_en": "SNES Mario Circuit 2",
-                        "name_jp": "SFC マリオサーキット2",
-                        "abbreviation": "rMC2"
-                    },
-                    {
-                        "id": 21,
-                        "name_en": "Wii Coconut Mall",
-                        "name_jp": "Wii ココナッツモール",
-                        "abbreviation": "rCM"
-                    },
-                    {
-                        "id": 22,
-                        "name_en": "DS Waluigi Pinball",
-                        "name_jp": "DS ワルイージピンボール",
-                        "abbreviation": "rWP"
-                    }
-                ]
-            },
-            {
-                "id": 6,
-                "name_en": "Leaf Cup",
-                "name_jp": "このはカップ",
-                "tracks": [
-                    {
-                        "id": 23,
-                        "name_en": "N64 Kalimari Desert",
-                        "name_jp": "64 カラカラさばく",
-                        "abbreviation": "rKD"
-                    },
-                    {
-                        "id": 24,
-                        "name_en": "DS DK Pass",
-                        "name_jp": "DS DKスノーマウンテン",
-                        "abbreviation": "rDKP"
-                    },
-                    {
-                        "id": 25,
-                        "name_en": "GCN Daisy Cruiser",
-                        "name_jp": "GC デイジークルーザー",
-                        "abbreviation": "rDC"
-                    },
-                    {
-                        "id": 26,
-                        "name_en": "Wii Maple Treeway",
-                        "name_jp": "Wii メイプルツリーハウス",
-                        "abbreviation": "rMT"
-                    }
-                ]
-            },
-            {
-                "id": 7,
-                "name_en": "サンダーカップ",
-                "name_jp": "Lightning Cup",
-                "tracks": [
-                    {
-                        "id": 27,
-                        "name_en": "Wii Koopa Cape",
-                        "name_jp": "Wii ノコノコみさき",
-                        "abbreviation": "rKC"
-                    },
-                    {
-                        "id": 28,
-                        "name_en": "GCN Dino Dino Jungle",
-                        "name_jp": "GC ディノディノジャングル",
-                        "abbreviation": "rDDJ"
-                    },
-                    {
-                        "id": 29,
-                        "name_en": "DS Airship Fortress",
-                        "name_jp": "DS キラーシップ",
-                        "abbreviation": "rAF"
-                    },
-                    {
-                        "id": 30,
-                        "name_en": "SNES Rainbow Road",
-                        "name_jp": "SFC レインボーロード",
-                        "abbreviation": "rRR"
-                    }
-                ]
-            }
+      },
+      {
+        "id": 2,
+        "name_en": "Star Cup",
+        "name_jp": "スターカップ",
+        "tracks": [
+          {
+            "id": 8,
+            "name_en": "DK Pass",
+            "name_jp": "DK スノーマウンテン",
+            "abbreviation": "DKP"
+          },
+          {
+            "id": 9,
+            "name_en": "Tick Tock Clock",
+            "name_jp": "チクタクロック",
+            "abbreviation": "TTC"
+          },
+          {
+            "id": 10,
+            "name_en": "Mario Circuit",
+            "name_jp": "マリオサーキット",
+            "abbreviation": "MC"
+          },
+          {
+            "id": 11,
+            "name_en": "Airship Fortress",
+            "name_jp": "キラーシップ",
+            "abbreviation": "AF"
+          }
         ]
-    },
-    {
-        "title_jp": "マリオカート 8",
-        "title_en": "Mario Kart 8",
-        "title_abbreviation": "MK8",
-        "cups": [
-            {
-                "id": 0,
-                "name_en": "Mushroom Cup",
-                "name_jp": "キノコカップ",
-                "tracks": [
-                    {
-                        "id": 0,
-                        "name_en": "Mario Kart Studium",
-                        "name_jp": "マリオカートスタジアム",
-                        "abbreviation": "MKS"
-                    },
-                    {
-                        "id": 1,
-                        "name_en": "Water Park",
-                        "name_jp": "ウォーターパーク",
-                        "abbreviation": "WP"
-                    },
-                    {
-                        "id": 2,
-                        "name_en": "Sweet Sweet Canyon",
-                        "name_jp": "スイーツキャニオン",
-                        "abbreviation": "SSC"
-                    },
-                    {
-                        "id": 3,
-                        "name_en": "Thwomp Ruins",
-                        "name_jp": "ドッスンいせき",
-                        "abbreviation": "TR"
-                    }
-                ]
-            },
-            {
-                "id": 1,
-                "name_en": "Flower Cup",
-                "name_jp": "フラワーカップ",
-                "tracks": [
-                    {
-                        "id": 4,
-                        "name_en": "Mario Circuit",
-                        "name_jp": "マリオサーキット",
-                        "abbreviation": "MC"
-                    },
-                    {
-                        "id": 5,
-                        "name_en": "Toad Harbor",
-                        "name_jp": "キノピオハーバー",
-                        "abbreviation": "TH"
-                    },
-                    {
-                        "id": 6,
-                        "name_en": "Twisted Mansion",
-                        "name_jp": "ねじれマンション",
-                        "abbreviation": "TM"
-                    },
-                    {
-                        "id": 7,
-                        "name_en": "Shy Guy Falls",
-                        "name_jp": "ヘイホーこうざん",
-                        "abbreviation": "SGF"
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name_en": "Star Cup",
-                "name_jp": "スターカップ",
-                "tracks": [
-                    {
-                        "id": 8,
-                        "name_en": "Sunshine Airport",
-                        "name_jp": "サンシャインくうこう",
-                        "abbreviation": "SA"
-                    },
-                    {
-                        "id": 9,
-                        "name_en": "Dolphin Shoals",
-                        "name_jp": "ドルフィンみさき",
-                        "abbreviation": "DS"
-                    },
-                    {
-                        "id": 10,
-                        "name_en": "Electrodrome",
-                        "name_jp": "エレクトロドリーム",
-                        "abbreviation": "ED"
-                    },
-                    {
-                        "id": 11,
-                        "name_en": "Mount Wario",
-                        "name_jp": "ワリオスノーマウンテン",
-                        "abbreviation": "MW"
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "name_en": "Special Cup",
-                "name_jp": "スペシャルカップ",
-                "tracks": [
-                    {
-                        "id": 12,
-                        "name_en": "Cloudtop Cruise",
-                        "name_jp": "スカイガーデン",
-                        "abbreviation": "CC"
-                    },
-                    {
-                        "id": 13,
-                        "name_en": "Bone-Dry Dunes",
-                        "name_jp": "ホネホネさばく",
-                        "abbreviation": "BDD"
-                    },
-                    {
-                        "id": 14,
-                        "name_en": "Bowser's Castle",
-                        "name_jp": "クッパキャッスル",
-                        "abbreviation": "BC"
-                    },
-                    {
-                        "id": 15,
-                        "name_en": "Rainbow Road",
-                        "name_jp": "レインボーロード",
-                        "abbreviation": "RR"
-                    }
-                ]
-            },
-            {
-                "id": 4,
-                "name_en": "Shell Cup",
-                "name_jp": "こうらカップ",
-                "tracks": [
-                    {
-                        "id": 16,
-                        "name_en": "Wii Moo Moo Meadows",
-                        "name_jp": "Wii モーモーカントリー",
-                        "abbreviation": "rMMM"
-                    },
-                    {
-                        "id": 17,
-                        "name_en": "GBA Mario Circuit",
-                        "name_jp": "GBA マリオサーキット",
-                        "abbreviation": "rMC"
-                    },
-                    {
-                        "id": 18,
-                        "name_en": "DS Cheep Cheep Beach",
-                        "name_jp": "DS プクプクビーチ",
-                        "abbreviation": "rCCB"
-                    },
-                    {
-                        "id": 19,
-                        "name_en": "N64 Toad's Turnpike",
-                        "name_jp": "64 キノピオハイウェイ",
-                        "abbreviation": "rTT"
-                    }
-                ]
-            },
-            {
-                "id": 5,
-                "name_en": "Banana Cup",
-                "name_jp": "バナナカップ",
-                "tracks": [
-                    {
-                        "id": 20,
-                        "name_en": "GCN Dry Dry Desert",
-                        "name_jp": "GC カラカラさばく",
-                        "abbreviation": "rDDD"
-                    },
-                    {
-                        "id": 21,
-                        "name_en": "SNES Donut Plains 3",
-                        "name_jp": "SFC ドーナツへいや3",
-                        "abbreviation": "rDP3"
-                    },
-                    {
-                        "id": 22,
-                        "name_en": "N64 Royal Raceway",
-                        "name_jp": "64 ピーチサーキット",
-                        "abbreviation": "rRRy"
-                    },
-                    {
-                        "id": 23,
-                        "name_en": "3DS DK Jungle",
-                        "name_jp": "3DS DKジャングル",
-                        "abbreviation": "rDKJ"
-                    }
-                ]
-            },
-            {
-                "id": 6,
-                "name_en": "Leaf Cup",
-                "name_jp": "このはカップ",
-                "tracks": [
-                    {
-                        "id": 24,
-                        "name_en": "DS Wario Stadium",
-                        "name_jp": "DS ワリオスタジアム",
-                        "abbreviation": "rWS"
-                    },
-                    {
-                        "id": 25,
-                        "name_en": "GCN Sherbet Land",
-                        "name_jp": "GC シャーベットランド",
-                        "abbreviation": "rSL"
-                    },
-                    {
-                        "id": 26,
-                        "name_en": "3DS Music Park",
-                        "name_jp": "3DS ミュージックパーク",
-                        "abbreviation": "rMP"
-                    },
-                    {
-                        "id": 27,
-                        "name_en": "N64 Yoshi Valley",
-                        "name_jp": "64 ヨッシーバレー",
-                        "abbreviation": "rYV"
-                    }
-                ]
-            },
-            {
-                "id": 7,
-                "name_en": "Lightning Cup",
-                "name_jp": "サンダーカップ",
-                "tracks": [
-                    {
-                        "id": 28,
-                        "name_en": "DS Tick-Tock Clock",
-                        "name_jp": "DS チクタクロック",
-                        "abbreviation": "rTTC"
-                    },
-                    {
-                        "id": 29,
-                        "name_en": "3DS Piranha Plant Slide",
-                        "name_jp": "3DS パックンスライダー",
-                        "abbreviation": "rPPS"
-                    },
-                    {
-                        "id": 30,
-                        "name_en": "Wii Grumble Volcano",
-                        "name_jp": "Wii グラグラかざん",
-                        "abbreviation": "rGV"
-                    },
-                    {
-                        "id": 31,
-                        "name_en": "N64 Rainbow Road",
-                        "name_jp": "64 レインボーロード",
-                        "abbreviation": "rRRd"
-                    }
-                ]
-            },
-            {
-                "id": 8,
-                "name_en": "Egg Cup",
-                "name_jp": "たまごカップ",
-                "tracks": [
-                    {
-                        "id": 32,
-                        "name_en": "GCN Yoshi Circuit",
-                        "name_jp": "GC ヨッシーサーキット",
-                        "abbreviation": "dYC"
-                    },
-                    {
-                        "id": 33,
-                        "name_en": "Excitebike Arena",
-                        "name_jp": "エキサイトバイク",
-                        "abbreviation": "dEA"
-                    },
-                    {
-                        "id": 34,
-                        "name_en": "Dragon Driftway",
-                        "name_jp": "ドラゴンロード",
-                        "abbreviation": "dDD"
-                    },
-                    {
-                        "id": 35,
-                        "name_en": "Mute City",
-                        "name_jp": "ミュートシティ",
-                        "abbreviation": "dMC"
-                    }
-                ]
-            },
-            {
-                "id": 9,
-                "name_en": "Triforce Cup",
-                "name_jp": "ゼルダカップ",
-                "tracks": [
-                    {
-                        "id": 36,
-                        "name_en": "Wii Wario's Gold Mine",
-                        "name_jp": "Wii ワリオこうざん",
-                        "abbreviation": "dWGM"
-                    },
-                    {
-                        "id": 37,
-                        "name_en": "SNES Rainbow Road",
-                        "name_jp": "SFC レインボーロード",
-                        "abbreviation": "dRR"
-                    },
-                    {
-                        "id": 38,
-                        "name_en": "Ice Ice Outpost",
-                        "name_jp": "ツルツルツイスター",
-                        "abbreviation": "dIIO"
-                    },
-                    {
-                        "id": 39,
-                        "name_en": "Hyrule Circuit",
-                        "name_jp": "ハイラルサーキット",
-                        "abbreviation": "dHC"
-                    }
-                ]
-            },
-            {
-                "id": 10,
-                "name_en": "Crossing Cup",
-                "name_jp": "どうぶつカップ",
-                "tracks": [
-                    {
-                        "id": 40,
-                        "name_en": "GCN Baby Park",
-                        "name_jp": "GC ベビーパーク",
-                        "abbreviation": "dBP"
-                    },
-                    {
-                        "id": 41,
-                        "name_en": "GBA Cheese Land",
-                        "name_jp": "GBA チーズランド",
-                        "abbreviation": "dCL"
-                    },
-                    {
-                        "id": 42,
-                        "name_en": "Wild Woods",
-                        "name_jp": "ネイチャーロード",
-                        "abbreviation": "dWW"
-                    },
-                    {
-                        "id": 43,
-                        "name_en": "Animal Crossing",
-                        "name_jp": "どうぶつの森",
-                        "abbreviation": "dAC"
-                    }
-                ]
-            },
-            {
-                "id": 11,
-                "name_en": "Bell Cup",
-                "name_jp": "ベルカップ",
-                "tracks": [
-                    {
-                        "id": 44,
-                        "name_en": "3DS Neo Bowser City",
-                        "name_jp": "3DS ネオクッパシティ",
-                        "abbreviation": "dNBC"
-                    },
-                    {
-                        "id": 45,
-                        "name_en": "GBA Ribbon Road",
-                        "name_jp": "GBA リボンロード",
-                        "abbreviation": "dRiR"
-                    },
-                    {
-                        "id": 46,
-                        "name_en": "Super Bell Subway",
-                        "name_jp": "リンリンメトロ",
-                        "abbreviation": "dSBS"
-                    },
-                    {
-                        "id": 47,
-                        "name_en": "Big Blue",
-                        "name_jp": "ビッグブルー",
-                        "abbreviation": "dBB"
-                    }
-                ]
-            }
+      },
+      {
+        "id": 3,
+        "name_en": "Special Cup",
+        "name_jp": "スペシャルカップ",
+        "tracks": [
+          {
+            "id": 12,
+            "name_en": "Wario Stadium",
+            "name_jp": "ワリオスタジアム",
+            "abbreviation": "WS"
+          },
+          {
+            "id": 13,
+            "name_en": "Peach Gardens",
+            "name_jp": "ピーチガーデン",
+            "abbreviation": "PG"
+          },
+          {
+            "id": 14,
+            "name_en": "Bowser Castle",
+            "name_jp": "クッパキャッスル",
+            "abbreviation": "BC"
+          },
+          {
+            "id": 15,
+            "name_en": "Rainbow Road",
+            "name_jp": "レインボーロード",
+            "abbreviation": "RR"
+          }
         ]
-    }
+      },
+      {
+        "id": 4,
+        "name_en": "Shell Cup",
+        "name_jp": "こうらカップ",
+        "tracks": [
+          {
+            "id": 16,
+            "name_en": "SNES Mario Circuit 1",
+            "name_jp": "SFC マリオサーキット1",
+            "abbreviation": "rMC"
+          },
+          {
+            "id": 17,
+            "name_en": "N64 Moo Moo Farm",
+            "name_jp": "64 モーモーファーム",
+            "abbreviation": "rMMF"
+          },
+          {
+            "id": 18,
+            "name_en": "GBA Peach Circuit",
+            "name_jp": "GBA ピーチサーキット",
+            "abbreviation": "rPC"
+          },
+          {
+            "id": 19,
+            "name_en": "GCN Luigi Circuit",
+            "name_jp": "GC ルイージサーキット",
+            "abbreviation": "rLC"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name_en": "Banana Cup",
+        "name_jp": "バナナカップ",
+        "tracks": [
+          {
+            "id": 20,
+            "name_en": "SNES Donut Plains 1",
+            "name_jp": "SFC ドーナツへいや1",
+            "abbreviation": "rDP"
+          },
+          {
+            "id": 21,
+            "name_en": "N64 Frappe Snowland",
+            "name_jp": "64 フラッペスノーランド",
+            "abbreviation": "rFS"
+          },
+          {
+            "id": 22,
+            "name_en": "GBA Bowser Castle 2",
+            "name_jp": "GBA クッパキャッスル2",
+            "abbreviation": "rBC2"
+          },
+          {
+            "id": 23,
+            "name_en": "GCN Baby Park",
+            "name_jp": "GC ベビィパーク",
+            "abbreviation": "rBP"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name_en": "Leaf Cup",
+        "name_jp": "このはカップ",
+        "tracks": [
+          {
+            "id": 24,
+            "name_en": "SNES Koopa Beach 2",
+            "name_jp": "SFC ノコノコビーチ2",
+            "abbreviation": "rKB2"
+          },
+          {
+            "id": 25,
+            "name_en": "N64 Choco Mountain",
+            "name_jp": "64 チョコマウンテン",
+            "abbreviation": "rCM"
+          },
+          {
+            "id": 26,
+            "name_en": "GBA Luigi Circuit",
+            "name_jp": "GBA ルイージサーキット",
+            "abbreviation": "rLC"
+          },
+          {
+            "id": 27,
+            "name_en": "GCN Mushroom Bridge",
+            "name_jp": "GC キノコブリッジ",
+            "abbreviation": "rMB"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name_en": "Lightning Cup",
+        "name_jp": "サンダーカップ",
+        "tracks": [
+          {
+            "id": 28,
+            "name_en": "SNES Choco Island 2",
+            "name_jp": "SFC チョコレーとう2",
+            "abbreviation": "rCI2"
+          },
+          {
+            "id": 29,
+            "name_en": "N64 Banshee Boardwalk",
+            "name_jp": "64 ヒュードロいけ",
+            "abbreviation": "rBB"
+          },
+          {
+            "id": 30,
+            "name_en": "GBA Sky Garden",
+            "name_jp": "GBA スカイガーデン",
+            "abbreviation": "rSG"
+          },
+          {
+            "id": 31,
+            "name_en": "GCN Yoshi Circuit",
+            "name_jp": "GC ヨッシーサーキット",
+            "abbreviation": "rYC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_jp": "マリオカート Wii",
+    "title_en": "Mario Kart Wii",
+    "title_abbreviation": "MKW",
+    "cups": [
+      {
+        "id": 0,
+        "name_en": "Mushroom Cup",
+        "name_jp": "キノコカップ",
+        "tracks": [
+          {
+            "id": 0,
+            "name_en": "Luigi Circuit",
+            "name_jp": "ルイージサーキット",
+            "abbreviation": "LC"
+          },
+          {
+            "id": 1,
+            "name_en": "Moo Moo Meadows",
+            "name_jp": "モーモーカントリー",
+            "abbreviation": "MMM"
+          },
+          {
+            "id": 2,
+            "name_en": "Mushroom Gorge",
+            "name_jp": "キノコキャニオン",
+            "abbreviation": "MG"
+          },
+          {
+            "id": 3,
+            "name_en": "Toad's Factory",
+            "name_jp": "キノピオファクトリー",
+            "abbreviation": "TF"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name_en": "Flower Cup",
+        "name_jp": "フラワーカップ",
+        "tracks": [
+          {
+            "id": 4,
+            "name_en": "Mario Circuit",
+            "name_jp": "マリオサーキット",
+            "abbreviation": "MC"
+          },
+          {
+            "id": 5,
+            "name_en": "Coconut Mall",
+            "name_jp": "ココナッツモール",
+            "abbreviation": "CM"
+          },
+          {
+            "id": 6,
+            "name_en": "DK's Snowboard Cross",
+            "name_jp": "DKスノーボードクロス",
+            "abbreviation": "DKSC"
+          },
+          {
+            "id": 7,
+            "name_en": "Wario's Gold Mine",
+            "name_jp": "ワリオこうざん",
+            "abbreviation": "WGM"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name_en": "Star Cup",
+        "name_jp": "スターカップ",
+        "tracks": [
+          {
+            "id": 8,
+            "name_en": "Daisy Circuit",
+            "name_jp": "デイジーサーキット",
+            "abbreviation": "DC"
+          },
+          {
+            "id": 9,
+            "name_en": "Koopa Cape",
+            "name_jp": "ノコノコみさき",
+            "abbreviation": "KC"
+          },
+          {
+            "id": 10,
+            "name_en": "Maple Treeway",
+            "name_jp": "メイプルツリーハウス",
+            "abbreviation": "MT"
+          },
+          {
+            "id": 11,
+            "name_en": "Grumble Volcano",
+            "name_jp": "グラグラかざん",
+            "abbreviation": "GV"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name_en": "Special Cup",
+        "name_jp": "スペシャルカップ",
+        "tracks": [
+          {
+            "id": 12,
+            "name_en": "Dry Dry Ruins",
+            "name_jp": "カラカラいせき",
+            "abbreviation": "DDR"
+          },
+          {
+            "id": 13,
+            "name_en": "Moonview Highway",
+            "name_jp": "ムーンリッジ & ハイウェイ",
+            "abbreviation": "MH"
+          },
+          {
+            "id": 14,
+            "name_en": "Bowser's Castle",
+            "name_jp": "クッパキャッスル",
+            "abbreviation": "BC"
+          },
+          {
+            "id": 15,
+            "name_en": "Rainbow Road",
+            "name_jp": "レインボーロード",
+            "abbreviation": "RR"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name_en": "Shell Cup",
+        "name_jp": "こうらカップ",
+        "tracks": [
+          {
+            "id": 16,
+            "name_en": "GCN Peach Beach",
+            "name_jp": "GC ピーチビーチ",
+            "abbreviation": "rPB"
+          },
+          {
+            "id": 17,
+            "name_en": "DS Yoshi Falls",
+            "name_jp": "DS ヨッシーフォールズ",
+            "abbreviation": "rYF"
+          },
+          {
+            "id": 18,
+            "name_en": "SNES Ghost Valley 2",
+            "name_jp": "SFC おばけぬま2",
+            "abbreviation": "rGV2"
+          },
+          {
+            "id": 19,
+            "name_en": "N64 Mario Raceway",
+            "name_jp": "64 マリオサーキット",
+            "abbreviation": "rMR"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name_en": "Banana Cup",
+        "name_jp": "バナナカップ",
+        "tracks": [
+          {
+            "id": 20,
+            "name_en": "N64 Sherbet Land",
+            "name_jp": "64 シャーベットランド",
+            "abbreviation": "rSL"
+          },
+          {
+            "id": 21,
+            "name_en": "GBA Shy Guy Beach",
+            "name_jp": "GBA ヘイホービーチ",
+            "abbreviation": "rSGB"
+          },
+          {
+            "id": 22,
+            "name_en": "DS Delfino Square",
+            "name_jp": "DS モンテタウン",
+            "abbreviation": "rDS"
+          },
+          {
+            "id": 23,
+            "name_en": "GCN Waluigi Stadium",
+            "name_jp": "GC ワルイージスタジアム",
+            "abbreviation": "rWS"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name_en": "Leaf Cup",
+        "name_jp": "このはカップ",
+        "tracks": [
+          {
+            "id": 24,
+            "name_en": "DS Desert Hills",
+            "name_jp": "DS サンサンさばく",
+            "abbreviation": "rDH"
+          },
+          {
+            "id": 25,
+            "name_en": "GBA Bowser Castle 3",
+            "name_jp": "GBA クッパキャッスル",
+            "abbreviation": "rBC3"
+          },
+          {
+            "id": 26,
+            "name_en": "N64 DK's J.Parkway",
+            "name_jp": "64 DKジャングルパーク",
+            "abbreviation": "rDJKP"
+          },
+          {
+            "id": 27,
+            "name_en": "GCN Mario Circuit",
+            "name_jp": "GC マリオサーキット",
+            "abbreviation": "rMC"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name_en": "Lightning Cup",
+        "name_jp": "サンダーカップ",
+        "tracks": [
+          {
+            "id": 28,
+            "name_en": "SNES Mario Circuit 3",
+            "name_jp": "SFC マリオサーキット3",
+            "abbreviation": "rMC3"
+          },
+          {
+            "id": 29,
+            "name_en": "DS Peach Gardens",
+            "name_jp": "DS ピーチガーデン",
+            "abbreviation": "rPG"
+          },
+          {
+            "id": 30,
+            "name_en": "GCN DK Mountain",
+            "name_jp": "GC DKマウンテン",
+            "abbreviation": "rDKM"
+          },
+          {
+            "id": 31,
+            "name_en": "N64 Bowser's Castle",
+            "name_jp": "64 クッパキャッスル",
+            "abbreviation": "rBC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_jp": "マリオカート 7",
+    "title_en": "Mario Kart 7",
+    "title_abbreviation": "MK7",
+    "cups": [
+      {
+        "id": 0,
+        "name_en": "Mushroom Cup",
+        "name_jp": "キノコカップ",
+        "tracks": [
+          {
+            "id": 0,
+            "name_en": "Toad Circuit",
+            "name_jp": "キノピオサーキット",
+            "abbreviation": "TC"
+          },
+          {
+            "id": 1,
+            "name_en": "Daisy Hills",
+            "name_jp": "デイジーヒルズ",
+            "abbreviation": "DH"
+          },
+          {
+            "id": 2,
+            "name_en": "Cheep Cheep Lagoon",
+            "name_jp": "プクプクラグーン",
+            "abbreviation": "CCL"
+          },
+          {
+            "id": 3,
+            "name_en": "Shy Guy Bazaar",
+            "name_jp": "ヘイホーカーニバル",
+            "abbreviation": "SGB"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name_en": "Flower Cup",
+        "name_jp": "フラワーカップ",
+        "tracks": [
+          {
+            "id": 4,
+            "name_en": "Wuhu Loop",
+            "name_jp": "ウーフーアイランド1",
+            "abbreviation": "WL"
+          },
+          {
+            "id": 5,
+            "name_en": "Mario Circuit",
+            "name_jp": "マリオサーキット",
+            "abbreviation": "MC"
+          },
+          {
+            "id": 6,
+            "name_en": "Music Park",
+            "name_jp": "ミュージックパーク",
+            "abbreviation": "MP"
+          },
+          {
+            "id": 7,
+            "name_en": "Rock Rock Mountain",
+            "name_jp": "ロックロックマウンテン",
+            "abbreviation": "RRM"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name_en": "Star Cup",
+        "name_jp": "スターカップ",
+        "tracks": [
+          {
+            "id": 8,
+            "name_en": "Piranha Plant Slide",
+            "name_jp": "パックンスライダー",
+            "abbreviation": "PPS"
+          },
+          {
+            "id": 9,
+            "name_en": "Wario Shipyard",
+            "name_jp": "ワリオシップ",
+            "abbreviation": "WS"
+          },
+          {
+            "id": 10,
+            "name_en": "Neo Bowser City",
+            "name_jp": "ネオクッパシティ",
+            "abbreviation": "NBC"
+          },
+          {
+            "id": 11,
+            "name_en": "Maka Wuhu",
+            "name_jp": "ウーフーアイランド2",
+            "abbreviation": "MW"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name_en": "Special Cup",
+        "name_jp": "スペシャルカップ",
+        "tracks": [
+          {
+            "id": 12,
+            "name_en": "DK Jungle",
+            "name_jp": "DKジャングル",
+            "abbreviation": "DKJ"
+          },
+          {
+            "id": 13,
+            "name_en": "Rosalina's Ice World",
+            "name_jp": "ロゼッタプラネット",
+            "abbreviation": "RIW"
+          },
+          {
+            "id": 14,
+            "name_en": "Bowser's Castle",
+            "name_jp": "クッパキャッスル",
+            "abbreviation": "BC"
+          },
+          {
+            "id": 15,
+            "name_en": "Rainbow Road",
+            "name_jp": "レインボーロード",
+            "abbreviation": "RR"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name_en": "Shell Cup",
+        "name_jp": "こうらカップ",
+        "tracks": [
+          {
+            "id": 16,
+            "name_en": "N64 Luigi Raceway",
+            "name_jp": "64 ルイージサーキット",
+            "abbreviation": "LR"
+          },
+          {
+            "id": 17,
+            "name_en": "GBA Bowser Castle 1",
+            "name_jp": "GBA クッパキャッスル1",
+            "abbreviation": "rBC"
+          },
+          {
+            "id": 18,
+            "name_en": "Wii Mushroom Gorge",
+            "name_jp": "Wii キノコキャニオン",
+            "abbreviation": "rMG"
+          },
+          {
+            "id": 3,
+            "name_en": "DS Luigi's Mansion",
+            "name_jp": "DS ルイージマンション",
+            "abbreviation": "rLM"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name_en": "Banana Cup",
+        "name_jp": "バナナカップ",
+        "tracks": [
+          {
+            "id": 19,
+            "name_en": "N64 Koopa Troopa Beach",
+            "name_jp": "64 ノコノコビーチ",
+            "abbreviation": "rKTB"
+          },
+          {
+            "id": 20,
+            "name_en": "SNES Mario Circuit 2",
+            "name_jp": "SFC マリオサーキット2",
+            "abbreviation": "rMC2"
+          },
+          {
+            "id": 21,
+            "name_en": "Wii Coconut Mall",
+            "name_jp": "Wii ココナッツモール",
+            "abbreviation": "rCM"
+          },
+          {
+            "id": 22,
+            "name_en": "DS Waluigi Pinball",
+            "name_jp": "DS ワルイージピンボール",
+            "abbreviation": "rWP"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name_en": "Leaf Cup",
+        "name_jp": "このはカップ",
+        "tracks": [
+          {
+            "id": 23,
+            "name_en": "N64 Kalimari Desert",
+            "name_jp": "64 カラカラさばく",
+            "abbreviation": "rKD"
+          },
+          {
+            "id": 24,
+            "name_en": "DS DK Pass",
+            "name_jp": "DS DKスノーマウンテン",
+            "abbreviation": "rDKP"
+          },
+          {
+            "id": 25,
+            "name_en": "GCN Daisy Cruiser",
+            "name_jp": "GC デイジークルーザー",
+            "abbreviation": "rDC"
+          },
+          {
+            "id": 26,
+            "name_en": "Wii Maple Treeway",
+            "name_jp": "Wii メイプルツリーハウス",
+            "abbreviation": "rMT"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name_en": "サンダーカップ",
+        "name_jp": "Lightning Cup",
+        "tracks": [
+          {
+            "id": 27,
+            "name_en": "Wii Koopa Cape",
+            "name_jp": "Wii ノコノコみさき",
+            "abbreviation": "rKC"
+          },
+          {
+            "id": 28,
+            "name_en": "GCN Dino Dino Jungle",
+            "name_jp": "GC ディノディノジャングル",
+            "abbreviation": "rDDJ"
+          },
+          {
+            "id": 29,
+            "name_en": "DS Airship Fortress",
+            "name_jp": "DS キラーシップ",
+            "abbreviation": "rAF"
+          },
+          {
+            "id": 30,
+            "name_en": "SNES Rainbow Road",
+            "name_jp": "SFC レインボーロード",
+            "abbreviation": "rRR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_jp": "マリオカート 8",
+    "title_en": "Mario Kart 8",
+    "title_abbreviation": "MK8",
+    "cups": [
+      {
+        "id": 0,
+        "name_en": "Mushroom Cup",
+        "name_jp": "キノコカップ",
+        "tracks": [
+          {
+            "id": 0,
+            "name_en": "Mario Kart Studium",
+            "name_jp": "マリオカートスタジアム",
+            "abbreviation": "MKS"
+          },
+          {
+            "id": 1,
+            "name_en": "Water Park",
+            "name_jp": "ウォーターパーク",
+            "abbreviation": "WP"
+          },
+          {
+            "id": 2,
+            "name_en": "Sweet Sweet Canyon",
+            "name_jp": "スイーツキャニオン",
+            "abbreviation": "SSC"
+          },
+          {
+            "id": 3,
+            "name_en": "Thwomp Ruins",
+            "name_jp": "ドッスンいせき",
+            "abbreviation": "TR"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name_en": "Flower Cup",
+        "name_jp": "フラワーカップ",
+        "tracks": [
+          {
+            "id": 4,
+            "name_en": "Mario Circuit",
+            "name_jp": "マリオサーキット",
+            "abbreviation": "MC"
+          },
+          {
+            "id": 5,
+            "name_en": "Toad Harbor",
+            "name_jp": "キノピオハーバー",
+            "abbreviation": "TH"
+          },
+          {
+            "id": 6,
+            "name_en": "Twisted Mansion",
+            "name_jp": "ねじれマンション",
+            "abbreviation": "TM"
+          },
+          {
+            "id": 7,
+            "name_en": "Shy Guy Falls",
+            "name_jp": "ヘイホーこうざん",
+            "abbreviation": "SGF"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name_en": "Star Cup",
+        "name_jp": "スターカップ",
+        "tracks": [
+          {
+            "id": 8,
+            "name_en": "Sunshine Airport",
+            "name_jp": "サンシャインくうこう",
+            "abbreviation": "SA"
+          },
+          {
+            "id": 9,
+            "name_en": "Dolphin Shoals",
+            "name_jp": "ドルフィンみさき",
+            "abbreviation": "DS"
+          },
+          {
+            "id": 10,
+            "name_en": "Electrodrome",
+            "name_jp": "エレクトロドリーム",
+            "abbreviation": "ED"
+          },
+          {
+            "id": 11,
+            "name_en": "Mount Wario",
+            "name_jp": "ワリオスノーマウンテン",
+            "abbreviation": "MW"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name_en": "Special Cup",
+        "name_jp": "スペシャルカップ",
+        "tracks": [
+          {
+            "id": 12,
+            "name_en": "Cloudtop Cruise",
+            "name_jp": "スカイガーデン",
+            "abbreviation": "CC"
+          },
+          {
+            "id": 13,
+            "name_en": "Bone-Dry Dunes",
+            "name_jp": "ホネホネさばく",
+            "abbreviation": "BDD"
+          },
+          {
+            "id": 14,
+            "name_en": "Bowser's Castle",
+            "name_jp": "クッパキャッスル",
+            "abbreviation": "BC"
+          },
+          {
+            "id": 15,
+            "name_en": "Rainbow Road",
+            "name_jp": "レインボーロード",
+            "abbreviation": "RR"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name_en": "Shell Cup",
+        "name_jp": "こうらカップ",
+        "tracks": [
+          {
+            "id": 16,
+            "name_en": "Wii Moo Moo Meadows",
+            "name_jp": "Wii モーモーカントリー",
+            "abbreviation": "rMMM"
+          },
+          {
+            "id": 17,
+            "name_en": "GBA Mario Circuit",
+            "name_jp": "GBA マリオサーキット",
+            "abbreviation": "rMC"
+          },
+          {
+            "id": 18,
+            "name_en": "DS Cheep Cheep Beach",
+            "name_jp": "DS プクプクビーチ",
+            "abbreviation": "rCCB"
+          },
+          {
+            "id": 19,
+            "name_en": "N64 Toad's Turnpike",
+            "name_jp": "64 キノピオハイウェイ",
+            "abbreviation": "rTT"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name_en": "Banana Cup",
+        "name_jp": "バナナカップ",
+        "tracks": [
+          {
+            "id": 20,
+            "name_en": "GCN Dry Dry Desert",
+            "name_jp": "GC カラカラさばく",
+            "abbreviation": "rDDD"
+          },
+          {
+            "id": 21,
+            "name_en": "SNES Donut Plains 3",
+            "name_jp": "SFC ドーナツへいや3",
+            "abbreviation": "rDP3"
+          },
+          {
+            "id": 22,
+            "name_en": "N64 Royal Raceway",
+            "name_jp": "64 ピーチサーキット",
+            "abbreviation": "rRRy"
+          },
+          {
+            "id": 23,
+            "name_en": "3DS DK Jungle",
+            "name_jp": "3DS DKジャングル",
+            "abbreviation": "rDKJ"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name_en": "Leaf Cup",
+        "name_jp": "このはカップ",
+        "tracks": [
+          {
+            "id": 24,
+            "name_en": "DS Wario Stadium",
+            "name_jp": "DS ワリオスタジアム",
+            "abbreviation": "rWS"
+          },
+          {
+            "id": 25,
+            "name_en": "GCN Sherbet Land",
+            "name_jp": "GC シャーベットランド",
+            "abbreviation": "rSL"
+          },
+          {
+            "id": 26,
+            "name_en": "3DS Music Park",
+            "name_jp": "3DS ミュージックパーク",
+            "abbreviation": "rMP"
+          },
+          {
+            "id": 27,
+            "name_en": "N64 Yoshi Valley",
+            "name_jp": "64 ヨッシーバレー",
+            "abbreviation": "rYV"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name_en": "Lightning Cup",
+        "name_jp": "サンダーカップ",
+        "tracks": [
+          {
+            "id": 28,
+            "name_en": "DS Tick-Tock Clock",
+            "name_jp": "DS チクタクロック",
+            "abbreviation": "rTTC"
+          },
+          {
+            "id": 29,
+            "name_en": "3DS Piranha Plant Slide",
+            "name_jp": "3DS パックンスライダー",
+            "abbreviation": "rPPS"
+          },
+          {
+            "id": 30,
+            "name_en": "Wii Grumble Volcano",
+            "name_jp": "Wii グラグラかざん",
+            "abbreviation": "rGV"
+          },
+          {
+            "id": 31,
+            "name_en": "N64 Rainbow Road",
+            "name_jp": "64 レインボーロード",
+            "abbreviation": "rRRd"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name_en": "Egg Cup",
+        "name_jp": "たまごカップ",
+        "tracks": [
+          {
+            "id": 32,
+            "name_en": "GCN Yoshi Circuit",
+            "name_jp": "GC ヨッシーサーキット",
+            "abbreviation": "dYC"
+          },
+          {
+            "id": 33,
+            "name_en": "Excitebike Arena",
+            "name_jp": "エキサイトバイク",
+            "abbreviation": "dEA"
+          },
+          {
+            "id": 34,
+            "name_en": "Dragon Driftway",
+            "name_jp": "ドラゴンロード",
+            "abbreviation": "dDD"
+          },
+          {
+            "id": 35,
+            "name_en": "Mute City",
+            "name_jp": "ミュートシティ",
+            "abbreviation": "dMC"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name_en": "Triforce Cup",
+        "name_jp": "ゼルダカップ",
+        "tracks": [
+          {
+            "id": 36,
+            "name_en": "Wii Wario's Gold Mine",
+            "name_jp": "Wii ワリオこうざん",
+            "abbreviation": "dWGM"
+          },
+          {
+            "id": 37,
+            "name_en": "SNES Rainbow Road",
+            "name_jp": "SFC レインボーロード",
+            "abbreviation": "dRR"
+          },
+          {
+            "id": 38,
+            "name_en": "Ice Ice Outpost",
+            "name_jp": "ツルツルツイスター",
+            "abbreviation": "dIIO"
+          },
+          {
+            "id": 39,
+            "name_en": "Hyrule Circuit",
+            "name_jp": "ハイラルサーキット",
+            "abbreviation": "dHC"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name_en": "Crossing Cup",
+        "name_jp": "どうぶつカップ",
+        "tracks": [
+          {
+            "id": 40,
+            "name_en": "GCN Baby Park",
+            "name_jp": "GC ベビーパーク",
+            "abbreviation": "dBP"
+          },
+          {
+            "id": 41,
+            "name_en": "GBA Cheese Land",
+            "name_jp": "GBA チーズランド",
+            "abbreviation": "dCL"
+          },
+          {
+            "id": 42,
+            "name_en": "Wild Woods",
+            "name_jp": "ネイチャーロード",
+            "abbreviation": "dWW"
+          },
+          {
+            "id": 43,
+            "name_en": "Animal Crossing",
+            "name_jp": "どうぶつの森",
+            "abbreviation": "dAC"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name_en": "Bell Cup",
+        "name_jp": "ベルカップ",
+        "tracks": [
+          {
+            "id": 44,
+            "name_en": "3DS Neo Bowser City",
+            "name_jp": "3DS ネオクッパシティ",
+            "abbreviation": "dNBC"
+          },
+          {
+            "id": 45,
+            "name_en": "GBA Ribbon Road",
+            "name_jp": "GBA リボンロード",
+            "abbreviation": "dRiR"
+          },
+          {
+            "id": 46,
+            "name_en": "Super Bell Subway",
+            "name_jp": "リンリンメトロ",
+            "abbreviation": "dSBS"
+          },
+          {
+            "id": 47,
+            "name_en": "Big Blue",
+            "name_jp": "ビッグブルー",
+            "abbreviation": "dBB"
+          }
+        ]
+      }
+    ]
+  }
 ]
