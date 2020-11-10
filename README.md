@@ -10,7 +10,6 @@ JSON-based Mario Kart Tracks Library.
 - MK8
 
 ## Usage
-
 ```
 $ npm i mk-tracks
 ```
