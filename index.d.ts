@@ -14,9 +14,9 @@ declare const game: {
           name_jp: string
           abbreviation: string
         }
-      ];
+      ]
     }
-  ];
-};
+  ]
+}[];
 
 export default game;
